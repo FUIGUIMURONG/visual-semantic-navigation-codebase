@@ -25,13 +25,14 @@ git clone https://github.com/FUIGUIMURONG/visual-semantic-navigation-codebase.gi
 - Install required dependencies according to requirement.txt:
 
 ```
-cd ~/visual-semantic-navigation-codebase
+cd ~/visual-semantic-navigation-codebase #Please make sure to check the download directory.
 pip install -r requirements.txt
 ```
 - Download the scene dataset:
 
 Go to the following link and download the compressed file:
 [Scene Dataset](https://drive.google.com/file/d/1E3wYlI2dwsg2C1rCqLaMv1W9oVg6ZI9v/view?usp=sharing)
+
 Extract the folder to `visual-semantic-navigation-codebase/scene_data` directory.
 
 ## Training
@@ -39,7 +40,7 @@ Extract the folder to `visual-semantic-navigation-codebase/scene_data` directory
 
 ```
 conda activate objNav
-cd ~/visual-semantic-navigation-codebase
+cd ~/visual-semantic-navigation-codebase #Please make sure to check the download directory.
 ```
 - Train:
 
@@ -50,14 +51,14 @@ Optional arguments:
 
  `--tb_dir`: directory to save the model, default is `runs/`
 
- `--gpu_ids`: GPU IDs to be used, default is 3
+ `--gpu_ids`: GPU IDs to be used, default is 0
 
  `--max_RL_episode`: maximum training steps, default is 1000000
 
  `--n_record_RL`: steps for recording training information, default is 100
 
  `--RL_save_episodes`: steps for model saving, default is 100000
- 
+
 - Continue training on a previously trained model:
 
 ```
@@ -70,7 +71,7 @@ Replace `xxx` with the path of the model to be loaded.
 
 ```
 conda activate objNav
-cd ~/visual-semantic-navigation-codebase
+cd ~/visual-semantic-navigation-codebase #Please make sure to check the download directory.
 ```
 - Test:
 
@@ -84,4 +85,25 @@ Optional arguments:
  `--test_setting`: seen or unseen, default is seen
 
 ## Others
+- More parameters:
+
 For more parameters, refer to `visual-semantic-navigation-codebase/utils/flag_parser.py`.
+- Try pretrained models:
+
+Go to the following link and download the compressed file:
+[Pretrained Models](https://drive.google.com/file/d/179NkAA-gRit_Cp7HdCYZDeNXFsm30Sz4/view?usp=drive_link)
+
+
+Check if the `visual-semantic-navigation-codebase/runs` directory exists. If it does not exist, create it with the following command:
+
+```
+mkdir ~/visual-semantic-navigation-codebase/runs #Please make sure to check the download directory.
+```
+And extract the folder to this directory.
+
+The files with the `.pth` extension in the folder are the model files. You can use the same command as in the testing section and replace `xxx` with the path to the `.pth` file. For example:
+
+```
+python main.py --algorithm RL --train_or_test test --test_RL_load_model ~/visual-semantic-navigation-codebase/runs/RL_2023_11_5_16_9_BaseModel/epoch_600000.pth
+```
+Imported the model trained for 600,000 epochs.
