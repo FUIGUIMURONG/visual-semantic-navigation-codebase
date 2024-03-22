@@ -51,7 +51,7 @@ Optional arguments:
 
  `--tb_dir`: directory to save the model, default is `runs/`
 
- `--gpu_ids`: GPU IDs to be used, default is 0
+ `--gpu_ids`: GPU IDs to be used, default is 0, -1 is cpu only
 
  `--max_RL_episode`: maximum training steps, default is 1000000
 
@@ -82,7 +82,9 @@ Replace `xxx` with the path of the model to be loaded.
 
 Optional arguments:
 
- `--test_setting`: seen or unseen, default is seen
+ `--test_setting`:all, seen or unseen, default is all
+
+And you can view the result statistics in the JSON file located in the `/visual-semantic-navigation-codebase/res` directory.
 
 ## Others
 - More parameters:
