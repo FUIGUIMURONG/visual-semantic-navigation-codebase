@@ -1,0 +1,502 @@
+[
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-5.75|4.75|0|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-5.50|4.75|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Pillow",
+        "init": "3.25|0.50|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Laptop",
+        "init": "3.00|-0.25|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Pillow",
+        "init": "2.75|0.75|90|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Pillow",
+        "init": "3.00|0.50|0|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Laptop",
+        "init": "2.25|-1.00|0|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.00|-1.50|0|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.75|1.25|90|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Laptop",
+        "init": "-0.25|4.25|90|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.75|-0.25|0|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "3.00|-1.50|180|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.75|1.25|180|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Pillow",
+        "init": "-6.75|3.50|0|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.00|-1.75|90|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Pillow",
+        "init": "-6.75|2.75|90|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Laptop",
+        "init": "3.00|-0.75|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "3.50|-0.75|180|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Laptop",
+        "init": "-0.25|2.00|270|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Laptop",
+        "init": "3.50|-0.50|270|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.25|-0.50|0|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Laptop",
+        "init": "1.50|1.25|270|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Pillow",
+        "init": "2.50|-1.00|270|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-0.75|4.25|0|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "3.50|-0.25|90|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Television",
+        "init": "-4.75|4.50|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "3.50|0.75|90|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Laptop",
+        "init": "1.25|1.50|90|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Laptop",
+        "init": "2.50|0.25|90|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Laptop",
+        "init": "2.75|1.25|90|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-2.50|2.00|0|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Laptop",
+        "init": "-0.50|-1.25|90|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "-1.00|-1.50|180|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Television",
+        "init": "-4.00|-2.75|0|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Pillow",
+        "init": "-4.75|4.00|90|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "0.25|0.75|180|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Laptop",
+        "init": "0.25|1.00|0|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Television",
+        "init": "-0.25|0.00|90|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Laptop",
+        "init": "-2.25|-1.00|270|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Pillow",
+        "init": "-0.25|3.50|90|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "1.25|0.50|270|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Laptop",
+        "init": "1.25|-1.00|90|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-0.75|3.00|90|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Pillow",
+        "init": "0.75|0.25|270|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-3.75|1.75|270|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Pillow",
+        "init": "-3.50|0.75|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Pillow",
+        "init": "-1.25|0.50|180|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Laptop",
+        "init": "-1.50|0.25|180|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Television",
+        "init": "-3.25|0.50|0|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "-2.25|0.25|0|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-6.75|3.00|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "-1.00|-0.50|90|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "-2.50|-0.75|270|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Television",
+        "init": "-2.50|3.50|270|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-4.00|2.00|90|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Laptop",
+        "init": "1.25|0.00|90|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Laptop",
+        "init": "-3.50|-0.25|0|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Laptop",
+        "init": "-2.00|-1.50|0|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Pillow",
+        "init": "-1.25|0.75|270|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-3.75|4.50|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Pillow",
+        "init": "-3.00|2.75|180|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-3.75|3.75|270|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Laptop",
+        "init": "-2.25|-0.50|180|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Pillow",
+        "init": "-4.00|4.00|270|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Pillow",
+        "init": "-3.00|0.75|0|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Pillow",
+        "init": "-0.25|1.75|90|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Laptop",
+        "init": "1.25|1.00|270|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Laptop",
+        "init": "-1.50|2.00|0|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Pillow",
+        "init": "-3.00|3.50|90|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Pillow",
+        "init": "0.25|0.50|90|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-2.00|3.50|270|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Pillow",
+        "init": "-1.00|0.75|0|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Television",
+        "init": "-3.75|0.50|270|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Television",
+        "init": "-2.75|-2.00|180|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Television",
+        "init": "-0.25|-0.75|0|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Laptop",
+        "init": "-2.25|-0.50|270|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Laptop",
+        "init": "2.75|-1.00|90|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Pillow",
+        "init": "-4.75|2.00|0|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Pillow",
+        "init": "1.25|0.25|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "0.00|0.00|0|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Laptop",
+        "init": "0.25|-0.75|180|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Television",
+        "init": "1.25|-1.25|180|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Television",
+        "init": "-3.75|1.50|180|0"
+    },
+    {
+        "scene": "FloorPlan222",
+        "target": "Television",
+        "init": "1.00|-1.00|180|0"
+    },
+    {
+        "scene": "FloorPlan224",
+        "target": "Laptop",
+        "init": "-0.50|0.25|90|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Laptop",
+        "init": "1.25|-1.25|270|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-2.25|1.00|0|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Laptop",
+        "init": "-2.75|1.00|0|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Laptop",
+        "init": "-1.75|1.00|270|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "-2.50|-0.50|180|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Pillow",
+        "init": "-3.50|-2.25|180|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Television",
+        "init": "-4.25|1.75|90|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "-0.50|0.25|180|0"
+    },
+    {
+        "scene": "FloorPlan221",
+        "target": "Television",
+        "init": "-4.00|0.50|270|0"
+    },
+    {
+        "scene": "FloorPlan225",
+        "target": "Pillow",
+        "init": "-0.50|4.00|180|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Television",
+        "init": "-0.50|-1.25|90|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Pillow",
+        "init": "-6.00|4.75|0|0"
+    },
+    {
+        "scene": "FloorPlan223",
+        "target": "Pillow",
+        "init": "-1.25|0.00|0|0"
+    },
+    {
+        "scene": "FloorPlan226",
+        "target": "Television",
+        "init": "0.00|-1.00|270|0"
+    },
+    {
+        "scene": "FloorPlan227",
+        "target": "Laptop",
+        "init": "-3.75|4.50|270|0"
+    }
+]

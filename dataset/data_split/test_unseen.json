@@ -1,0 +1,102 @@
+[
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-0.25|2.25|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-0.50|3.00|270|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-0.25|3.75|90|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-1.00|2.25|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-1.50|0.25|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-0.25|2.25|180|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-1.00|1.00|90|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-3.50|4.50|180|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "Box",
+        "init": "-1.50|4.50|270|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-2.00|3.25|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-1.75|2.75|90|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "Box",
+        "init": "-2.00|2.75|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-4.75|4.50|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-1.00|4.50|180|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "Box",
+        "init": "-2.50|3.00|180|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-2.75|4.00|0|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-4.50|3.50|270|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "Box",
+        "init": "-5.50|1.50|90|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "Box",
+        "init": "-1.50|1.25|270|0"
+    },
+    {
+        "scene": "FloorPlan229",
+        "target": "GarbageCan",
+        "init": "-4.50|2.25|180|0"
+    }
+]
