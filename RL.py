@@ -51,11 +51,11 @@ def train_A3C_process(rank, args, shared_model, optimizer, res_queue, end_flag):
 
     Agent = NavAgent(args, model)
 
-    # ids = 0
+    ids = 0
     while not end_flag.value:
         # Get a new episode.
         player_start_time = time.time()        
-        task_data = train_data[idx]
+        task_data = train_data[ids]
         total_reward = 0
         Agent.eps_len = 0
         Agent.new_episode(args, task_data)
