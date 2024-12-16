@@ -1,7 +1,7 @@
 # visual-semantic-navigation-codebase
 
 ## Overview
-This model is a foundational framework for visual-semantic navigation. Semantic features are extracted using the GloVe model, visual features are extracted using the ResNet18 model, and then cascaded into an A3C reinforcement learning algorithm to generate actions, thus achieving navigation. The model architecture is as follows:
+This model is a foundational framework for visual-semantic navigation. The corresponding essay is https://arxiv.org/pdf/1810.06543. Specifically, semantic features are extracted using the GloVe model, visual features are extracted using the ResNet18 model, and then cascaded into an A3C reinforcement learning algorithm to generate actions, thus achieving navigation. The model architecture is as follows:
 
 ![overview](./overview.jpg)
 
